@@ -1,1 +1,1 @@
-![image](https://github.com/Margarita2113/Docker-PostgreSQL/assets/130901306/ea64ff46-61ed-451c-94b1-059ef8c8dca5)
+![image](https://github.com/Margarita2113/Docker_PostgreSQL/assets/130901306/9c7f0877-1e4d-4d80-8e91-094c32f07b9c)
